@@ -1,0 +1,9 @@
+﻿{
+  "username": "rahulshettyacademy",
+  "password": "learning",
+  "Wrong_Username": "rahulshetty",
+  "Wrong_Password": "learn",
+  "typevalue": "teach",
+  "ExpectedMsg": "Thank you! Your order will be delivered in",
+  "Products": [ "iphone X", "Blackberry" ]
+}
